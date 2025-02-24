@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package >
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
+    <id>Czemi.LogicMethodsFrmWk</id>
+    <version>1.0.0</version>
+    <title>LogicMethods</title>
+    <authors>Ssemakula Mukiibi</authors>
+    <!--  <readme>.\ReadMe.md</readme> -->
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <!-- <icon>icon.png</icon> -->
-    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
-    <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
-    <copyright>$copyright$</copyright>
-    <tags>Tag1 Tag2</tags>
+    <icon>Czemi_Maissan128.png</icon>
+    <projectUrl>https://github.com/Ssemakula/CzemiLogicMethods/</projectUrl>
+    <description>C type comparison logic</description>
+    <releaseNotes>First version</releaseNotes>
+    <copyright>Copyright (c) 2025 by Czemi</copyright>
+    <tags>IsTrue Logic</tags>
   </metadata>
+  <files>
+    <file src=".\ReadMe.md" target="\" />
+    <file src="Czemi_Maissan128.png" target="\" />
+  </files>
 </package>
